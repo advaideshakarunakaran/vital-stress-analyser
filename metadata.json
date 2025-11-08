@@ -1,0 +1,5 @@
+{
+  "name": "Vital Stress Analyzer",
+  "description": "An application that analyzes user-provided health vitals (heart rate, pulse rate, oxygen level) using the Gemini API to estimate a stress percentage and provide a brief wellness analysis.",
+  "requestFramePermissions": []
+}
